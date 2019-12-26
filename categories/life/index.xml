@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life on Michael Sun Blog</title>
+    <link>https://www.msun.net/categories/life/</link>
+    <description>Recent content in Life on Michael Sun Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Apr 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.msun.net/categories/life/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Century Ride - Mount Hamilton Loop</title>
+      <link>https://www.msun.net/post/2013-04-20-mt-hamilton-loop/</link>
+      <pubDate>Sat, 20 Apr 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.msun.net/post/2013-04-20-mt-hamilton-loop/</guid>
+      <description>How time flies! It has been almost a year since I started cycling. Last year(2012), I have accomplished several long rides(100k). Since then I have always been thinking to chanllenge myself to do a century, a 100-mile long ride.
+However, it is hard to find a 100-mile route in the Bay Area that I can do it by myself alone.
+Several months ago, a cycling friend hosted a event to visit San Antonio Valley wildflowers in this Spring(info).</description>
+    </item>
+    
+  </channel>
+</rss>
